@@ -3,14 +3,18 @@ Create an interface for an employer to use to see different employees, departmen
 
 ## Description
 
+Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases.  
+The assignment is to build a command-line application from scratch to manage a company's employee database using Node.js, Inquirer & MySQL.
+
 ## Table of Contents
+
 * [Description](#description)
 * [Table of Contents](#table-of-contents)
 * [User Story](#user-story)
 * [Acceptance Criteria](#acceptance-criteria)
-* [Files and Images](#files-and-images)
-* [Useage](#usage)
-* [Installation](#installation)
+* [Images](#files-and-images)
+* [Video Link](#video-link)
+* [Applications](#Applications)
 * [Credits](#credits)
 
 ## User Story
@@ -35,17 +39,20 @@ THEN I am prompted to enter the name of the department and that department is ad
 WHEN I choose to add a role
 THEN I am prompted to enter the name, salary, and department for the role and that role is added to the database
 WHEN I choose to add an employee
-THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
-WHEN I choose to update an employee role
-THEN I am prompted to select an employee to update and their new role and this information is updated in the database
+THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employheroku
 
-## Database Information:
+## Images:
 
 ![picture of tables in database](image-1.png)
 
-![Alt text](image.png)
+## Video Link:
 
-![screenshot of sql tables in terminal](<SQL tables - homework 12-1.jpg>)
+ https://drive.google.com/file/d/1czyIqiwn-WU5rYBp7hS32BZDUycASVDP/view?pli=1
+
+ ## Applications:
+
+ Node.js, Inquirer, MySQL
+
 
 ## Credits
 I used github Co-pilot on this project.

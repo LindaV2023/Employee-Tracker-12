@@ -269,7 +269,7 @@ function deleteEmployee() {
 };
 
 
-module.exports = db;
+// module.exports = db;
 
 
 
